@@ -5,7 +5,7 @@
 
 //2, 4 -> 16
 
- Console.WriteLine("Введите число, возводимое в степень: ");
+Console.WriteLine("Введите число, возводимое в степень: ");
 int num =Convert.ToInt32(Console.ReadLine());
 
  Console.WriteLine("Введите число, обозначающее степень: ");
